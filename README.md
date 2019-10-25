@@ -1,0 +1,2 @@
+ffmpeg Autometor example
+======
